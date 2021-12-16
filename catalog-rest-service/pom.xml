@@ -316,6 +316,12 @@
       <version>1.0.2</version>
     </dependency>
 
+    <dependency>
+      <groupId>com.networknt</groupId>
+      <artifactId>json-schema-validator</artifactId>
+      <version>1.0.64</version>
+    </dependency>
+
   </dependencies>
 
   <build>
